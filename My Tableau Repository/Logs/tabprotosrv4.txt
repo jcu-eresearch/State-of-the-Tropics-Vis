@@ -1,0 +1,780 @@
+﻿
+
+
+
+
+
+
+
+
+---------------------------------------------------------
+NEW SESSION
+---------------------------------------------------------
+Tableau Version: 8100.14.0510.1702,x86
+Started at '2014-06-13 12:35:16:903'
+Microsoft Windows 7 Professional (build 7600)
+Hostname: Pantless-PC
+Writing to 'C:\Users\John\Documents\My Tableau Repository\Logs\tabprotosrv4.txt'
+
+Memory:  Current memory load is 0%
+Memory: Process memory free: 0xf7691000 bytesMemory: Process memory committed: 0x05ab5000 bytesMemory: Process memory reserved: 0x02eaa000 bytes
+CurrentDirectory: C:\Users\John\Desktop\Tropics_Data_Formatted
+
+Path: C:\Program Files (x86)\Microsoft Office\Office14\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+
+Environment:
+
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\John\AppData\Roaming
+ARBORPATH=C:\Program Files\Tableau\Tableau 8.1\
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=PANTLESS-PC
+ComSpec=C:\Windows\system32\cmd.exe
+ESSBASEPATH=C:\Program Files\Tableau\Tableau 8.1\
+FP_NO_HOST_CHECK=NO
+HOMEDRIVE=C:
+HOMEPATH=\Users\John
+LOCALAPPDATA=C:\Users\John\AppData\Local
+LOGONSERVER=\\PANTLESS-PC
+NUMBER_OF_PROCESSORS=4
+OS=Windows_NT
+Path=C:\Program Files (x86)\Microsoft Office\Office14\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=x86
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=3c03
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\Windows
+TABLEAU_QUERY_BAND_CONNECT_OPT=
+TABLEAU_QUERY_BAND_OPT=
+TEMP=C:\Users\John\AppData\Local\Temp
+TMP=C:\Users\John\AppData\Local\Temp
+USERDOMAIN=Pantless-PC
+USERNAME=John
+USERPROFILE=C:\Users\John
+WecVersionForRosebud.7E0=4
+windir=C:\Windows
+__KMP_REGISTERED_LIB_4424=00000000100BD090-cafe9b7c-libiomp5md.dll
+
+
+C:\Windows\SYSTEM32\MSJET40.DLL:
+  Product Name: Microsoft (R) Jet
+  File Version: 4.00.9756.0
+  Product Version: 4.00.9756.0
+
+ARBORPATH="C:\Program Files\Tableau\Tableau 8.1\"
+
+Display Devices:
+  0: Standard VGA Graphics Adapter
+Registry::DriverVersion: Undefined
+Registry::DriverDate: Undefined
+Registry::DriverDesc: Undefined
+Registry::Adapter: VGA
+Registry::BIOS: 01.00
+Registry::ChipType: AMD ATOMBIOS
+Registry::VideoMemorySize: Undefined
+
+
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\tabprotosrv.exe:
+  Product Name: Tableau Protocol Server 8.1
+  File Version: 8100.14.0510.1702
+  Product Version: 8100.14.0510.1702
+
+C:\Windows\SysWOW64\ntdll.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\kernel32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.17179 (win7_gdr.121129-1434)
+  Product Version: 6.1.7600.17179
+
+C:\Windows\syswow64\KERNELBASE.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.17179 (win7_gdr.121129-1434)
+  Product Version: 6.1.7600.17179
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\QtCore4.dll:
+  Product Name: Qt4
+  File Version: 4.8.4.0
+  Product Version: 
+
+C:\Windows\syswow64\USER32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\GDI32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\LPK.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\USP10.dll:
+  Product Name: Microsoft(R) Uniscribe Unicode script processor
+  File Version: 1.0626.7600.17174 (win7_gdr.121121-1913)
+  Product Version: 1.0626.7600.17174
+
+C:\Windows\syswow64\msvcrt.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 7.0.7600.16930 (win7_gdr.111215-1720)
+  Product Version: 7.0.7600.16930
+
+C:\Windows\syswow64\ADVAPI32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\SysWOW64\sechost.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\RPCRT4.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\SspiCli.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.17035 (win7_gdr.120601-1506)
+  Product Version: 6.1.7600.17035
+
+C:\Windows\syswow64\CRYPTBASE.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\ole32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\WS2_32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\NSI.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\MSVCP100.dll:
+  Product Name: Microsoft® Visual Studio® 2010
+  File Version: 10.00.40219.325
+  Product Version: 10.00.40219.325
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\MSVCR100.dll:
+  Product Name: Microsoft® Visual Studio® 2010
+  File Version: 10.00.40219.325
+  Product Version: 10.00.40219.325
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\tabcore.dll:
+  Product Name: Tableau 8.1
+  File Version: 8100.14.0510.1702
+  Product Version: 8100.14.0510.1702
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\boost_system-vc100-mt-1_50.dll:
+  No version information available
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\boost_thread-vc100-mt-1_50.dll:
+  No version information available
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\boost_chrono-vc100-mt-1_50.dll:
+  No version information available
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\libcurl.dll:
+  Product Name: The cURL library
+  File Version: 7.32.0
+  Product Version: 7.32.0
+
+C:\Windows\syswow64\WLDAP32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\Normaliz.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\TABLIBEAY32.dll:
+  Product Name: The OpenSSL Toolkit
+  File Version: 1.0.1g
+  Product Version: 1.0.1g
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\TABSSLEAY32.dll:
+  Product Name: The OpenSSL Toolkit
+  File Version: 1.0.1g
+  Product Version: 1.0.1g
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\QtNetwork4.dll:
+  Product Name: Qt4
+  File Version: 4.8.4.0
+  Product Version: 
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\icuin44.dll:
+  Product Name: International Components for Unicode
+  File Version: 4, 4, 0, 0
+  Product Version: 4, 4, 0, 0
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\icuuc44.dll:
+  Product Name: International Components for Unicode
+  File Version: 4, 4, 0, 0
+  Product Version: 4, 4, 0, 0
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\icudt44.dll:
+  Product Name: International Components for Unicode
+  File Version: 4, 4, 0, 0
+  Product Version: 4, 4, 0, 0
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\tbb.dll:
+  Product Name: Intel(R) Threading Building Blocks for Windows
+  File Version: 4, 2, 0, 0
+  Product Version: 4, 2, 0, 0
+
+C:\Windows\syswow64\PSAPI.DLL:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\system32\VERSION.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\tabmetrics.dll:
+  Product Name: Tableau Metrics 8.1
+  File Version: 8100.14.0510.1702
+  Product Version: 8100.14.0510.1702
+
+C:\Windows\syswow64\SHELL32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\SHLWAPI.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\OLEAUT32.dll:
+  Product Name: 
+  File Version: 6.1.7600.16872
+  Product Version: 6.1.7600.16872
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\mfc100u.dll:
+  Product Name: Microsoft® Visual Studio® 10
+  File Version: 10.00.40219.325
+  Product Version: 10.00.40219.325
+
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7600.16661_none_420fe3fa2b8113bd\COMCTL32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.10 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\system32\MSIMG32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\system32\dbghelp.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\WINTRUST.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.17115 (win7_gdr.120824-0331)
+  Product Version: 6.1.7600.17115
+
+C:\Windows\syswow64\CRYPT32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.17035 (win7_gdr.120601-1506)
+  Product Version: 6.1.7600.17035
+
+C:\Windows\syswow64\MSASN1.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16415 (win7_gdr.090828-1615)
+  Product Version: 6.1.7600.16415
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\tabdata.dll:
+  Product Name: Tableau 8.1
+  File Version: 8100.14.0510.1702
+  Product Version: 8100.14.0510.1702
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\boost_date_time-vc100-mt-1_50.dll:
+  No version information available
+
+C:\Windows\system32\MSWSOCK.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\tabmixins.dll:
+  Product Name: Tableau 8.1
+  File Version: 8100.14.0510.1702
+  Product Version: 8100.14.0510.1702
+
+C:\Windows\system32\ODBC32.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16688 (win7_gdr.101015-1505)
+  Product Version: 6.1.7600.16688
+
+C:\Program Files\Tableau\Tableau 8.1\bin32\libxl.dll:
+  Product Name: LibXL
+  File Version: 3.5.3.1
+  Product Version: 3.5.3.1
+
+C:\Windows\system32\IMM32.DLL:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\syswow64\MSCTF.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\system32\UxTheme.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\system32\dwmapi.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Windows\system32\odbcint.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+  Product Version: 6.1.7600.16385
+
+C:\Program Files (x86)\Common Files\System\Ado\msado15.dll:
+  Product Name: Microsoft® Windows® Operating System
+  File Version: 6.1.7600.17036 (win7_gdr.120605-1503)
+  Product Version: 6.1.7600.17036
+---------------------------------------------------------
+
+Default user locale:
+  LCID:     0xc09
+  Country:  Australia / Australia
+  Language: English (Australia) / 
+            English
+  Sort:     Default
+  Dates:    Short dates are 'D-M-Y'
+            Full 4-digit century in short dates.
+            Short date format is 'd/MM/yyyy'
+            Long dates are 'D-M-Y'
+            Long date format is 'dddd, d MMMM yyyy'
+            Gregorian (localized) calendar
+            h:mm:ss tt
+  Samples:  AM = AM/ Mon = Mon/ Jan = Jan/ '/' = /
+Default system locale:
+  LCID:     0xc09
+  Country:  Australia / Australia
+  Language: English (Australia) / 
+            English
+  Sort:     Default
+  Dates:    Short dates are 'D-M-Y'
+            Full 4-digit century in short dates.
+            Short date format is 'd/MM/yyyy'
+            Long dates are 'D-M-Y'
+            Long date format is 'dddd, d MMMM yyyy'
+            Gregorian (localized) calendar
+            h:mm:ss tt
+  Samples:  AM = AM/ Mon = Mon/ Jan = Jan/ '/' = /
+---------------------------------------------------------
+
+Current Process ID: 4536 (0x11b8)
+2014-06-13 12:35:16.910 (-,-,-,-) 0c40: AppName: Tableau edition=1)
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: -----------------------------------------------------------------------------
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: Initializing fault reporting
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: Initializing MiniDump
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: Loading 'DbgHelp.dll'
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: Loaded 'C:\Windows\system32\dbghelp.dll'
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: '  Product Name: Microsoft® Windows® Operating System
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40:   File Version: 6.1.7600.16385 (win7_rtm.090713-1255)
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40:   Product Version: 6.1.7600.16385
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: '
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: Finding function 'MiniDumpWriteDump'
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: Success
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: Registering unhandled exception filter
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: -----------------------------------------------------------------------------
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: Callback: tab.pipe://./pipe/{6E1C541B-72A1-411C-89EE-20983D47E15C}
+2014-06-13 12:35:16.920 (-,-,-,-) 0c40: tab.pipe://./pipe/{BB1891D6-0289-4462-9412-8BFC00688FE6}
+2014-06-13 12:35:16.921 (-,-,-,-) 0c40: Starting dispatch loop
+2014-06-13 12:35:16.921 (-,-,-,-) 0c40: WorkItemCreate: 0x00a135b0, 0x00a0f0d0
+2014-06-13 12:35:16.921 (-,-,-,-) 0c40: AsyncTaskSvcExecuteOnThread: 0x00a0f0d0
+2014-06-13 12:35:16.921 (-,-,-,-) 0cf8: Starting AsyncTask for SessionID: -.
+2014-06-13 12:35:16.921 (-,-,-,-) 0cf8: AdminTask start
+2014-06-13 12:35:16.921 (-,-,-,-) 0c40: IPC start [4536] 1
+2014-06-13 12:35:16.922 (-,-,-,-) 0c40: Creating a shadow copy of Excel file "C:\Users\John\Desktop\Tropics_Data_Formatted\Society_Health_Life Expectancy.xlsx" as "C:\Users\John\AppData\Local\Temp\TableauTemp\Society_Health_Life Expectancy_1g7lvto1vnmbvq17ttojg1wnmz47.xlsx" for improved query performance
+2014-06-13 12:35:16.923 (-,-,-,-) 0c40: Shadow copy complete
+2014-06-13 12:35:16.923 (-,-,-,-) 0c40: ConnectString: Provider=Microsoft.ACE.OLEDB.12.0;Mode=Share Deny Write;Data Source=C:\Users\John\AppData\Local\Temp\TableauTemp\Society_Health_Life Expectancy_1g7lvto1vnmbvq17ttojg1wnmz47.xlsx;Extended Properties="Excel 12.0;HDR=Yes;IMEX=1"
+2014-06-13 12:35:16.923 (-,-,-,-) 0c40: INFO: Connecting to Excel File through Jet -- Type Guess Rows = 8
+2014-06-13 12:35:16.927 (-,-,-,-) 0c40: IDataInitialize::GetDataSource: 0.002 seconds
+2014-06-13 12:35:16.927 (-,-,-,-) 0c40: pDBInitialize->QueryInterface(IID_IDBProperties)=0x%10
+2014-06-13 12:35:16.927 (-,-,-,-) 0c40: Calling pDBInitialize->Initialize...
+2014-06-13 12:35:16.946 (-,-,-,-) 0c40: IDBInitialize::Initialize: 0.019 seconds
+2014-06-13 12:35:16.947 (-,-,-,-) 0c40: Error retrieving property 0x%1       8
+2014-06-13 12:35:16.947 (-,-,-,-) 0c40: INFO: Connected via PROVIDER="excel" to DBMS="MS Jet (04.00.0000), Provider Version 04.00.8015, OleDB Version 02.10"
+2014-06-13 12:35:16.947 (-,-,-,-) 0c40: Error retrieving property 0x%1       8
+2014-06-13 12:35:16.948 (-,-,-,-) 0c40: ProtocolBase::LogConnection( <connection class='excel' driver='Ace12' filename='C:\Users\John\Desktop\Tropics_Data_Formatted\Society_Health_Life Expectancy.xlsx' header='yes' imex='1' this='00a3ba28' /> )
+2014-06-13 12:35:16.948 (-,-,-,-) 0c40: IPC done GetProtocol 0.0260
+2014-06-13 12:35:16.948 (-,-,-,-) 0c40: IPC start [4536] 8
+2014-06-13 12:35:16.948 (-,-,-,-) 0c40: IPC done GetConnectionInfo 0.0000
+2014-06-13 12:35:16.949 (-,-,-,-) 0c40: IPC request followed by 1 other of the same.
+2014-06-13 12:35:16.949 (-,-,-,-) 0c40: IPC start [4536] 17
+2014-06-13 12:35:16.949 (-,-,-,-) 0c40: IPC done IsExclusiveConnection 0.0000
+2014-06-13 12:35:16.949 (-,-,-,-) 0c40: IPC start [4536] 54
+2014-06-13 12:35:16.949 (-,-,-,-) 0c40: IPC done CanCancelQueries 0.0000
+2014-06-13 12:35:16.949 (-,-,-,-) 0c40: IPC start [4536] 26
+2014-06-13 12:35:16.950 (-,-,-,-) 0c40:    [Time] EnumerateTables took 0.0000 sec. and produced 6 results
+2014-06-13 12:35:16.950 (-,-,-,-) 0c40: IPC done EnumerateTables 0.0000
+2014-06-13 12:35:25.206 (-,-,-,-) 0c40: IPC start [4536] 31
+2014-06-13 12:35:25.239 (-,-,-,-) 0c40: <foreignkeys :default-schema='' auto-extract='yes' class='excel' driver='Ace12' filename='C:\Users\John\Desktop\Tropics_Data_Formatted\Society_Health_Life Expectancy.xlsx' header='yes' imex='1' name='excel.41803.524499293984' tablename='&apos;Tropics-Tableau$&apos;'>
+2014-06-13 12:35:25.241 (-,-,-,-) 0c40: </foreignkeys>
+2014-06-13 12:35:25.242 (-,-,-,-) 0c40: IPC done ReadMetadata 0.0350
+2014-06-13 12:35:25.242 (-,-,-,-) 0c40: IPC start [4536] 34
+2014-06-13 12:35:25.243 (-,-,-,-) 0c40: IPC done GetCollation 0.0000
+2014-06-13 12:35:25.271 (-,-,-,-) 0c40: IPC start [4536] 31
+2014-06-13 12:35:25.272 (-,-,-,-) 0c40: <foreignkeys :locale='1024' auto-extract='yes' caption='Tropics-Tableau (Society_Health_Life Expectancy.xlsx)' class='excel' driver='Ace12' filename='C:\Users\John\Desktop\Tropics_Data_Formatted\Society_Health_Life Expectancy.xlsx' header='yes' imex='1' name='excel.41803.524499293984' tablename='&apos;Tropics-Tableau$&apos;'>
+2014-06-13 12:35:25.272 (-,-,-,-) 0c40: </foreignkeys>
+2014-06-13 12:35:25.273 (-,-,-,-) 0c40: IPC done ReadMetadata 0.0020
+2014-06-13 12:35:25.274 (-,-,-,-) 0c40: IPC start [4536] 34
+2014-06-13 12:35:25.274 (-,-,-,-) 0c40: IPC done GetCollation 0.0000
+2014-06-13 12:35:36.169 (-,-,-,-) 0c40: IPC start [4536] 36
+2014-06-13 12:35:36.170 (-,-,-,-) 0c40: IPC done MangleRemoteAlias 0.0000
+2014-06-13 12:35:36.170 (-,-,-,-) 0c40: IPC start [4536] 37
+2014-06-13 12:35:36.171 (-,-,-,-) 0c40: IPC done MangleWireAlias 0.0000
+2014-06-13 12:35:36.171 (-,-,-,-) 0c40: IPC start [4536] 36
+2014-06-13 12:35:36.172 (-,-,-,-) 0c40: IPC done MangleRemoteAlias 0.0000
+2014-06-13 12:35:36.172 (-,-,-,-) 0c40: IPC start [4536] 37
+2014-06-13 12:35:36.173 (-,-,-,-) 0c40: IPC done MangleWireAlias 0.0000
+2014-06-13 12:35:36.178 (-,-,-,-) 0c40: IPC start [4536] 41
+2014-06-13 12:35:36.202 (-,-,-,-) 0c40: WorkItemCreate: 0x009fe170, 0x031fab80
+2014-06-13 12:35:36.202 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fab80
+2014-06-13 12:35:36.203 (-,-,-,-) 05c0: AsyncTaskWrapperExecute: 0x031fab80
+2014-06-13 12:35:36.203 (-,-,-,-) 05c0: Starting AsyncTask for SessionID: -.
+2014-06-13 12:35:36.203 (-,-,-,-) 05c0: <QUERY protocol='00a3ba28'>
+2014-06-13 12:35:36.203 (-,-,-,-) 05c0: SELECT ['Tropics-Tableau$'].[Major area, region, country or area] AS [none:Major area, region, country or area:nk],
+2014-06-13 12:35:36.203 (-,-,-,-) 05c0:   SUM(['Tropics-Tableau$'].[Avg Life Expectancy]) AS [sum:Avg Life Expectancy:ok]
+2014-06-13 12:35:36.203 (-,-,-,-) 05c0: FROM ['Tropics-Tableau$']
+2014-06-13 12:35:36.203 (-,-,-,-) 05c0: GROUP BY ['Tropics-Tableau$'].[Major area, region, country or area]
+2014-06-13 12:35:36.203 (-,-,-,-) 05c0: </QUERY>
+2014-06-13 12:35:36.211 (-,-,-,-) 05c0:    [Time] Running the command took 0.0080 sec.
+2014-06-13 12:35:36.211 (-,-,-,-) 05c0:    [Time] Running the query took 0.0080 sec.
+2014-06-13 12:35:36.211 (-,-,-,-) 05c0: WorkItemSetComplete: 0x031fab80
+2014-06-13 12:35:36.211 (-,-,-,-) 0c40: Action:   SubAction:  Status:  Observers: 0
+2014-06-13 12:35:36.212 (-,-,-,-) 0c40: WorkItemCreate: 0x009b7c90, 0x031fabd0
+2014-06-13 12:35:36.212 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fabd0
+2014-06-13 12:35:36.212 (-,-,-,-) 0f80: Starting AsyncTask for SessionID: -.
+2014-06-13 12:35:36.212 (-,-,-,-) 0c40: WorkItemCreate: 0x00a0dd58, 0x031fac20
+2014-06-13 12:35:36.213 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac20
+2014-06-13 12:35:36.213 (-,-,-,-) 0f68: Starting AsyncTask for SessionID: -.
+2014-06-13 12:35:36.213 (-,-,-,-) 0f80: WorkItemSetComplete: 0x031fabd0
+2014-06-13 12:35:36.214 (-,-,-,-) 0f68:    [Time] Getting the records took 0.0000 sec.
+2014-06-13 12:35:36.214 (-,-,-,-) 0f68: WorkItemSetComplete: 0x031fac20
+2014-06-13 12:35:36.214 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fac20
+2014-06-13 12:35:36.214 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fac20
+2014-06-13 12:35:36.214 (-,-,-,-) 0c40: IPC done RunQuery 0.0350
+2014-06-13 12:35:36.214 (-,-,-,-) 0c40: IPC start [4536] 3
+2014-06-13 12:35:36.215 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fabd0
+2014-06-13 12:35:36.215 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fabd0
+2014-06-13 12:35:36.215 (-,-,-,-) 0c40: IPC done ReadTuples 0.0000
+2014-06-13 12:35:36.216 (-,-,-,-) 0c40: IPC request followed by 1 other of the same.
+2014-06-13 12:35:36.216 (-,-,-,-) 0c40: IPC start [4536] 4
+2014-06-13 12:35:36.216 (-,-,-,-) 0c40: IPC done ReleaseTuples 0.0000
+2014-06-13 12:35:50.177 (-,-,-,-) 0c40: IPC start [4536] 36
+2014-06-13 12:35:50.177 (-,-,-,-) 0c40: IPC done MangleRemoteAlias 0.0000
+2014-06-13 12:35:50.178 (-,-,-,-) 0c40: IPC start [4536] 37
+2014-06-13 12:35:50.178 (-,-,-,-) 0c40: IPC done MangleWireAlias 0.0000
+2014-06-13 12:35:50.180 (-,-,-,-) 0c40: IPC start [4536] 41
+2014-06-13 12:35:50.181 (-,-,-,-) 0c40: WorkItemCreate: 0x009fe6e8, 0x031fac70
+2014-06-13 12:35:50.181 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac70
+2014-06-13 12:35:50.182 (-,-,-,-) 0e4c: Starting AsyncTask for SessionID: -.
+2014-06-13 12:35:50.182 (-,-,-,-) 0e4c: <QUERY protocol='00a3ba28'>
+2014-06-13 12:35:50.182 (-,-,-,-) 0e4c: SELECT ['Tropics-Tableau$'].[Avg Life Expectancy] AS [none:Avg Life Expectancy:ok],
+2014-06-13 12:35:50.182 (-,-,-,-) 0e4c:   ['Tropics-Tableau$'].[Major area, region, country or area] AS [none:Major area, region, country or area:nk]
+2014-06-13 12:35:50.182 (-,-,-,-) 0e4c: FROM ['Tropics-Tableau$']
+2014-06-13 12:35:50.182 (-,-,-,-) 0e4c: GROUP BY ['Tropics-Tableau$'].[Avg Life Expectancy],
+2014-06-13 12:35:50.182 (-,-,-,-) 0e4c:   ['Tropics-Tableau$'].[Major area, region, country or area]
+2014-06-13 12:35:50.182 (-,-,-,-) 0e4c: </QUERY>
+2014-06-13 12:35:50.194 (-,-,-,-) 0e4c:    [Time] Running the command took 0.0120 sec.
+2014-06-13 12:35:50.194 (-,-,-,-) 0e4c:    [Time] Running the query took 0.0120 sec.
+2014-06-13 12:35:50.194 (-,-,-,-) 0e4c: WorkItemSetComplete: 0x031fac70
+2014-06-13 12:35:50.194 (-,-,-,-) 0c40: Action:   SubAction:  Status:  Observers: 0
+2014-06-13 12:35:50.195 (-,-,-,-) 0c40: WorkItemCreate: 0x009b7d18, 0x031fac70
+2014-06-13 12:35:50.195 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac70
+2014-06-13 12:35:50.195 (-,-,-,-) 0b14: Starting AsyncTask for SessionID: -.
+2014-06-13 12:35:50.196 (-,-,-,-) 0c40: WorkItemCreate: 0x00a0dc88, 0x031fab80
+2014-06-13 12:35:50.196 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fab80
+2014-06-13 12:35:50.196 (-,-,-,-) 1078: Starting AsyncTask for SessionID: -.
+2014-06-13 12:35:50.206 (-,-,-,-) 0b14: WorkItemSetComplete: 0x031fac70
+2014-06-13 12:35:50.207 (-,-,-,-) 1078:    [Time] Getting the records took 0.0000 sec.
+2014-06-13 12:35:50.207 (-,-,-,-) 1078: WorkItemSetComplete: 0x031fab80
+2014-06-13 12:35:50.207 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fab80
+2014-06-13 12:35:50.207 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fab80
+2014-06-13 12:35:50.207 (-,-,-,-) 0c40: IPC done RunQuery 0.0260
+2014-06-13 12:35:50.208 (-,-,-,-) 0c40: IPC start [4536] 3
+2014-06-13 12:35:50.208 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fac70
+2014-06-13 12:35:50.208 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fac70
+2014-06-13 12:35:50.209 (-,-,-,-) 0c40: IPC done ReadTuples 0.0000
+2014-06-13 12:35:50.210 (-,-,-,-) 0c40: IPC request followed by 1 other of the same.
+2014-06-13 12:35:50.210 (-,-,-,-) 0c40: IPC start [4536] 4
+2014-06-13 12:35:50.211 (-,-,-,-) 0c40: IPC done ReleaseTuples 0.0000
+2014-06-13 12:35:59.339 (-,-,-,-) 0c40: IPC start [4536] 41
+2014-06-13 12:35:59.341 (-,-,-,-) 0c40: WorkItemCreate: 0x03250d98, 0x031fac70
+2014-06-13 12:35:59.341 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac70
+2014-06-13 12:35:59.341 (-,-,-,-) 0c54: Starting AsyncTask for SessionID: -.
+2014-06-13 12:35:59.341 (-,-,-,-) 0c54: <QUERY protocol='00a3ba28'>
+2014-06-13 12:35:59.341 (-,-,-,-) 0c54: SELECT ['Tropics-Tableau$'].[Avg Life Expectancy] AS [none:Avg Life Expectancy:ok],
+2014-06-13 12:35:59.341 (-,-,-,-) 0c54:   ['Tropics-Tableau$'].[Major area, region, country or area] AS [none:Major area, region, country or area:nk],
+2014-06-13 12:35:59.341 (-,-,-,-) 0c54:   SUM(['Tropics-Tableau$'].[Avg Life Expectancy]) AS [sum:Avg Life Expectancy:ok]
+2014-06-13 12:35:59.341 (-,-,-,-) 0c54: FROM ['Tropics-Tableau$']
+2014-06-13 12:35:59.341 (-,-,-,-) 0c54: GROUP BY ['Tropics-Tableau$'].[Avg Life Expectancy],
+2014-06-13 12:35:59.341 (-,-,-,-) 0c54:   ['Tropics-Tableau$'].[Major area, region, country or area]
+2014-06-13 12:35:59.341 (-,-,-,-) 0c54: </QUERY>
+2014-06-13 12:35:59.355 (-,-,-,-) 0c54:    [Time] Running the command took 0.0140 sec.
+2014-06-13 12:35:59.355 (-,-,-,-) 0c54:    [Time] Running the query took 0.0140 sec.
+2014-06-13 12:35:59.355 (-,-,-,-) 0c54: WorkItemSetComplete: 0x031fac70
+2014-06-13 12:35:59.355 (-,-,-,-) 0c40: Action:   SubAction:  Status:  Observers: 0
+2014-06-13 12:35:59.356 (-,-,-,-) 0c40: WorkItemCreate: 0x009b7c90, 0x031fabd0
+2014-06-13 12:35:59.356 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fabd0
+2014-06-13 12:35:59.356 (-,-,-,-) 0a60: Starting AsyncTask for SessionID: -.
+2014-06-13 12:35:59.357 (-,-,-,-) 0c40: WorkItemCreate: 0x00a0de28, 0x031fae00
+2014-06-13 12:35:59.357 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fae00
+2014-06-13 12:35:59.357 (-,-,-,-) 1380: Starting AsyncTask for SessionID: -.
+2014-06-13 12:35:59.370 (-,-,-,-) 0a60: WorkItemSetComplete: 0x031fabd0
+2014-06-13 12:35:59.371 (-,-,-,-) 1380:    [Time] Getting the records took 0.0000 sec.
+2014-06-13 12:35:59.371 (-,-,-,-) 1380: WorkItemSetComplete: 0x031fae00
+2014-06-13 12:35:59.371 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fae00
+2014-06-13 12:35:59.371 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fae00
+2014-06-13 12:35:59.371 (-,-,-,-) 0c40: IPC done RunQuery 0.0310
+2014-06-13 12:35:59.372 (-,-,-,-) 0c40: IPC start [4536] 3
+2014-06-13 12:35:59.372 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fabd0
+2014-06-13 12:35:59.372 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fabd0
+2014-06-13 12:35:59.373 (-,-,-,-) 0c40: IPC done ReadTuples 0.0000
+2014-06-13 12:35:59.374 (-,-,-,-) 0c40: IPC request followed by 1 other of the same.
+2014-06-13 12:35:59.374 (-,-,-,-) 0c40: IPC start [4536] 4
+2014-06-13 12:35:59.374 (-,-,-,-) 0c40: IPC done ReleaseTuples 0.0000
+2014-06-13 12:36:46.596 (-,-,-,-) 0c40: IPC start [4536] 36
+2014-06-13 12:36:46.596 (-,-,-,-) 0c40: IPC done MangleRemoteAlias 0.0000
+2014-06-13 12:36:46.597 (-,-,-,-) 0c40: IPC start [4536] 37
+2014-06-13 12:36:46.597 (-,-,-,-) 0c40: IPC done MangleWireAlias 0.0000
+2014-06-13 12:36:46.600 (-,-,-,-) 0c40: IPC start [4536] 41
+2014-06-13 12:36:46.602 (-,-,-,-) 0c40: WorkItemCreate: 0x00a48088, 0x031fac20
+2014-06-13 12:36:46.602 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac20
+2014-06-13 12:36:46.602 (-,-,-,-) 0c50: Starting AsyncTask for SessionID: -.
+2014-06-13 12:36:46.602 (-,-,-,-) 0c50: <QUERY protocol='00a3ba28'>
+2014-06-13 12:36:46.602 (-,-,-,-) 0c50: SELECT ['Tropics-Tableau$'].[Avg Life Expectancy] AS [none:Avg Life Expectancy:ok],
+2014-06-13 12:36:46.602 (-,-,-,-) 0c50:   ['Tropics-Tableau$'].[Major area, region, country or area] AS [none:Major area, region, country or area:nk],
+2014-06-13 12:36:46.602 (-,-,-,-) 0c50:   ['Tropics-Tableau$'].[Years] AS [none:Years:nk]
+2014-06-13 12:36:46.602 (-,-,-,-) 0c50: FROM ['Tropics-Tableau$']
+2014-06-13 12:36:46.602 (-,-,-,-) 0c50: GROUP BY ['Tropics-Tableau$'].[Avg Life Expectancy],
+2014-06-13 12:36:46.602 (-,-,-,-) 0c50:   ['Tropics-Tableau$'].[Major area, region, country or area],
+2014-06-13 12:36:46.602 (-,-,-,-) 0c50:   ['Tropics-Tableau$'].[Years]
+2014-06-13 12:36:46.602 (-,-,-,-) 0c50: </QUERY>
+2014-06-13 12:36:46.626 (-,-,-,-) 0c50:    [Time] Running the command took 0.0230 sec.
+2014-06-13 12:36:46.626 (-,-,-,-) 0c50:    [Time] Running the query took 0.0230 sec.
+2014-06-13 12:36:46.626 (-,-,-,-) 0c50: WorkItemSetComplete: 0x031fac20
+2014-06-13 12:36:46.626 (-,-,-,-) 0c40: Action:   SubAction:  Status:  Observers: 0
+2014-06-13 12:36:46.626 (-,-,-,-) 0c40: WorkItemCreate: 0x009b7b80, 0x031fac20
+2014-06-13 12:36:46.626 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac20
+2014-06-13 12:36:46.626 (-,-,-,-) 0938: Starting AsyncTask for SessionID: -.
+2014-06-13 12:36:46.627 (-,-,-,-) 0c40: WorkItemCreate: 0x00a0dcf0, 0x031fac70
+2014-06-13 12:36:46.627 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac70
+2014-06-13 12:36:46.627 (-,-,-,-) 0f94: Starting AsyncTask for SessionID: -.
+2014-06-13 12:36:46.641 (-,-,-,-) 0938: WorkItemSetComplete: 0x031fac20
+2014-06-13 12:36:46.642 (-,-,-,-) 0f94:    [Time] Getting the records took 0.0000 sec.
+2014-06-13 12:36:46.642 (-,-,-,-) 0f94: WorkItemSetComplete: 0x031fac70
+2014-06-13 12:36:46.642 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fac70
+2014-06-13 12:36:46.642 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fac70
+2014-06-13 12:36:46.642 (-,-,-,-) 0c40: IPC done RunQuery 0.0410
+2014-06-13 12:36:46.643 (-,-,-,-) 0c40: IPC start [4536] 3
+2014-06-13 12:36:46.644 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fac20
+2014-06-13 12:36:46.644 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fac20
+2014-06-13 12:36:46.644 (-,-,-,-) 0c40: IPC done ReadTuples 0.0010
+2014-06-13 12:36:46.646 (-,-,-,-) 0c40: IPC request followed by 1 other of the same.
+2014-06-13 12:36:46.646 (-,-,-,-) 0c40: IPC start [4536] 4
+2014-06-13 12:36:46.646 (-,-,-,-) 0c40: IPC done ReleaseTuples 0.0000
+2014-06-13 12:37:22.340 (-,-,-,-) 0c40: IPC start [4536] 36
+2014-06-13 12:37:22.341 (-,-,-,-) 0c40: IPC done MangleRemoteAlias 0.0000
+2014-06-13 12:37:22.341 (-,-,-,-) 0c40: IPC start [4536] 37
+2014-06-13 12:37:22.342 (-,-,-,-) 0c40: IPC done MangleWireAlias 0.0000
+2014-06-13 12:37:22.360 (-,-,-,-) 0c40: IPC start [4536] 41
+2014-06-13 12:37:22.361 (-,-,-,-) 0c40: WorkItemCreate: 0x0331fb70, 0x031fac70
+2014-06-13 12:37:22.361 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac70
+2014-06-13 12:37:22.361 (-,-,-,-) 0c0c: Starting AsyncTask for SessionID: -.
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c: <QUERY protocol='00a3ba28'>
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c: SELECT ['Tropics-Tableau$'].[Avg Life Expectancy] AS [none:Avg Life Expectancy:ok],
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c:   ['Tropics-Tableau$'].[Major area, region, country or area] AS [none:Major area, region, country or area:nk],
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c:   ['Tropics-Tableau$'].[Region] AS [none:Region:nk],
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c:   ['Tropics-Tableau$'].[Years] AS [none:Years:nk]
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c: FROM ['Tropics-Tableau$']
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c: GROUP BY ['Tropics-Tableau$'].[Avg Life Expectancy],
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c:   ['Tropics-Tableau$'].[Major area, region, country or area],
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c:   ['Tropics-Tableau$'].[Region],
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c:   ['Tropics-Tableau$'].[Years]
+2014-06-13 12:37:22.362 (-,-,-,-) 0c0c: </QUERY>
+2014-06-13 12:37:22.385 (-,-,-,-) 0c0c:    [Time] Running the command took 0.0230 sec.
+2014-06-13 12:37:22.385 (-,-,-,-) 0c0c:    [Time] Running the query took 0.0230 sec.
+2014-06-13 12:37:22.385 (-,-,-,-) 0c0c: WorkItemSetComplete: 0x031fac70
+2014-06-13 12:37:22.385 (-,-,-,-) 0c40: Action:   SubAction:  Status:  Observers: 0
+2014-06-13 12:37:22.386 (-,-,-,-) 0c40: WorkItemCreate: 0x009b7c08, 0x031fac70
+2014-06-13 12:37:22.386 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac70
+2014-06-13 12:37:22.386 (-,-,-,-) 0fd4: Starting AsyncTask for SessionID: -.
+2014-06-13 12:37:22.386 (-,-,-,-) 0c40: WorkItemCreate: 0x00a0dd58, 0x031fac20
+2014-06-13 12:37:22.387 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac20
+2014-06-13 12:37:22.387 (-,-,-,-) 07a8: Starting AsyncTask for SessionID: -.
+2014-06-13 12:37:22.396 (-,-,-,-) 0fd4: WorkItemSetComplete: 0x031fac70
+2014-06-13 12:37:22.397 (-,-,-,-) 07a8:    [Time] Getting the records took 0.0000 sec.
+2014-06-13 12:37:22.397 (-,-,-,-) 07a8: WorkItemSetComplete: 0x031fac20
+2014-06-13 12:37:22.397 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fac20
+2014-06-13 12:37:22.397 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fac20
+2014-06-13 12:37:22.398 (-,-,-,-) 0c40: IPC done RunQuery 0.0370
+2014-06-13 12:37:22.398 (-,-,-,-) 0c40: IPC start [4536] 3
+2014-06-13 12:37:22.400 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fac70
+2014-06-13 12:37:22.400 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fac70
+2014-06-13 12:37:22.400 (-,-,-,-) 0c40: IPC done ReadTuples 0.0010
+2014-06-13 12:37:22.402 (-,-,-,-) 0c40: IPC request followed by 1 other of the same.
+2014-06-13 12:37:22.402 (-,-,-,-) 0c40: IPC start [4536] 4
+2014-06-13 12:37:22.402 (-,-,-,-) 0c40: IPC done ReleaseTuples 0.0000
+2014-06-13 12:37:48.374 (-,-,-,-) 0c40: IPC start [4536] 41
+2014-06-13 12:37:48.374 (-,-,-,-) 0c40: WorkItemCreate: 0x03253b28, 0x031fac70
+2014-06-13 12:37:48.374 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fac70
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc: Starting AsyncTask for SessionID: -.
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc: <QUERY protocol='00a3ba28'>
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc: SELECT ['Tropics-Tableau$'].[Avg Life Expectancy] AS [none:Avg Life Expectancy:ok],
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc:   ['Tropics-Tableau$'].[Major area, region, country or area] AS [none:Major area, region, country or area:nk],
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc:   ['Tropics-Tableau$'].[Region] AS [none:Region:nk],
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc:   ['Tropics-Tableau$'].[Years] AS [none:Years:nk],
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc:   SUM(['Tropics-Tableau$'].[Avg Life Expectancy]) AS [sum:Avg Life Expectancy:ok]
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc: FROM ['Tropics-Tableau$']
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc: GROUP BY ['Tropics-Tableau$'].[Avg Life Expectancy],
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc:   ['Tropics-Tableau$'].[Major area, region, country or area],
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc:   ['Tropics-Tableau$'].[Region],
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc:   ['Tropics-Tableau$'].[Years]
+2014-06-13 12:37:48.375 (-,-,-,-) 13fc: </QUERY>
+2014-06-13 12:37:48.394 (-,-,-,-) 13fc:    [Time] Running the command took 0.0190 sec.
+2014-06-13 12:37:48.394 (-,-,-,-) 13fc:    [Time] Running the query took 0.0190 sec.
+2014-06-13 12:37:48.394 (-,-,-,-) 13fc: WorkItemSetComplete: 0x031fac70
+2014-06-13 12:37:48.394 (-,-,-,-) 0c40: Action:   SubAction:  Status:  Observers: 0
+2014-06-13 12:37:48.395 (-,-,-,-) 0c40: WorkItemCreate: 0x009b7b80, 0x031facc0
+2014-06-13 12:37:48.395 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031facc0
+2014-06-13 12:37:48.395 (-,-,-,-) 1004: Starting AsyncTask for SessionID: -.
+2014-06-13 12:37:48.396 (-,-,-,-) 0c40: WorkItemCreate: 0x00a0dc88, 0x031fab80
+2014-06-13 12:37:48.396 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fab80
+2014-06-13 12:37:48.396 (-,-,-,-) 11d4: Starting AsyncTask for SessionID: -.
+2014-06-13 12:37:48.407 (-,-,-,-) 1004: WorkItemSetComplete: 0x031facc0
+2014-06-13 12:37:48.408 (-,-,-,-) 11d4:    [Time] Getting the records took 0.0000 sec.
+2014-06-13 12:37:48.408 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fab80
+2014-06-13 12:37:48.408 (-,-,-,-) 11d4: WorkItemSetComplete: 0x031fab80
+2014-06-13 12:37:48.408 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fab80
+2014-06-13 12:37:48.408 (-,-,-,-) 0c40: IPC done RunQuery 0.0340
+2014-06-13 12:37:48.409 (-,-,-,-) 0c40: IPC start [4536] 3
+2014-06-13 12:37:48.410 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031facc0
+2014-06-13 12:37:48.410 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031facc0
+2014-06-13 12:37:48.411 (-,-,-,-) 0c40: IPC done ReadTuples 0.0010
+2014-06-13 12:37:48.413 (-,-,-,-) 0c40: IPC request followed by 1 other of the same.
+2014-06-13 12:37:48.413 (-,-,-,-) 0c40: IPC start [4536] 4
+2014-06-13 12:37:48.413 (-,-,-,-) 0c40: IPC done ReleaseTuples 0.0000
+2014-06-13 12:38:04.181 (-,-,-,-) 0c40: IPC start [4536] 36
+2014-06-13 12:38:04.181 (-,-,-,-) 0c40: IPC done MangleRemoteAlias 0.0000
+2014-06-13 12:38:04.181 (-,-,-,-) 0c40: IPC start [4536] 37
+2014-06-13 12:38:04.182 (-,-,-,-) 0c40: IPC done MangleWireAlias 0.0000
+2014-06-13 12:38:04.184 (-,-,-,-) 0c40: IPC start [4536] 41
+2014-06-13 12:38:04.185 (-,-,-,-) 0c40: WorkItemCreate: 0x0331c9c8, 0x031fabd0
+2014-06-13 12:38:04.185 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fabd0
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28: Starting AsyncTask for SessionID: -.
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28: <QUERY protocol='00a3ba28'>
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28: SELECT ['Tropics-Tableau$'].[Avg Life Expectancy] AS [none:Avg Life Expectancy:ok],
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28:   ['Tropics-Tableau$'].[Major area, region, country or area] AS [none:Major area, region, country or area:nk],
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28:   ['Tropics-Tableau$'].[Region] AS [none:Region:nk],
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28:   ['Tropics-Tableau$'].[Years] AS [none:Years:nk],
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28:   AVG(['Tropics-Tableau$'].[Avg Life Expectancy]) AS [avg:Avg Life Expectancy:ok]
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28: FROM ['Tropics-Tableau$']
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28: GROUP BY ['Tropics-Tableau$'].[Avg Life Expectancy],
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28:   ['Tropics-Tableau$'].[Major area, region, country or area],
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28:   ['Tropics-Tableau$'].[Region],
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28:   ['Tropics-Tableau$'].[Years]
+2014-06-13 12:38:04.185 (-,-,-,-) 0e28: </QUERY>
+2014-06-13 12:38:04.203 (-,-,-,-) 0e28:    [Time] Running the command took 0.0180 sec.
+2014-06-13 12:38:04.203 (-,-,-,-) 0e28:    [Time] Running the query took 0.0180 sec.
+2014-06-13 12:38:04.203 (-,-,-,-) 0e28: WorkItemSetComplete: 0x031fabd0
+2014-06-13 12:38:04.203 (-,-,-,-) 0c40: Action:   SubAction:  Status:  Observers: 0
+2014-06-13 12:38:04.204 (-,-,-,-) 0c40: WorkItemCreate: 0x009b7d18, 0x031facc0
+2014-06-13 12:38:04.204 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031facc0
+2014-06-13 12:38:04.204 (-,-,-,-) 11ec: Starting AsyncTask for SessionID: -.
+2014-06-13 12:38:04.205 (-,-,-,-) 0c40: WorkItemCreate: 0x00a0de28, 0x031fae50
+2014-06-13 12:38:04.205 (-,-,-,-) 0c40: AsyncTaskSvcExecute: 0x031fae50
+2014-06-13 12:38:04.205 (-,-,-,-) 0dd8: Starting AsyncTask for SessionID: -.
+2014-06-13 12:38:04.216 (-,-,-,-) 11ec: WorkItemSetComplete: 0x031facc0
+2014-06-13 12:38:04.216 (-,-,-,-) 0dd8:    [Time] Getting the records took 0.0000 sec.
+2014-06-13 12:38:04.216 (-,-,-,-) 0dd8: WorkItemSetComplete: 0x031fae50
+2014-06-13 12:38:04.216 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031fae50
+2014-06-13 12:38:04.216 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031fae50
+2014-06-13 12:38:04.216 (-,-,-,-) 0c40: IPC done RunQuery 0.0320
+2014-06-13 12:38:04.217 (-,-,-,-) 0c40: IPC start [4536] 3
+2014-06-13 12:38:04.218 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x031facc0
+2014-06-13 12:38:04.218 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x031facc0
+2014-06-13 12:38:04.219 (-,-,-,-) 0c40: IPC done ReadTuples 0.0010
+2014-06-13 12:38:04.220 (-,-,-,-) 0c40: IPC request followed by 1 other of the same.
+2014-06-13 12:38:04.220 (-,-,-,-) 0c40: IPC start [4536] 4
+2014-06-13 12:38:04.220 (-,-,-,-) 0c40: IPC done ReleaseTuples 0.0000
+2014-06-13 12:38:28.945 (-,-,-,-) 0c40: IPC start [4536] 2
+2014-06-13 12:38:28.945 (-,-,-,-) 0c40: <connections>
+2014-06-13 12:38:28.945 (-,-,-,-) 0c40: </connections>
+2014-06-13 12:38:28.945 (-,-,-,-) 0c40: <close-protocol :thread-session='background' class='excel' driver='Ace12' filename='C:\Users\John\Desktop\Tropics_Data_Formatted\Society_Health_Life Expectancy.xlsx' header='yes' imex='1'>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: <connections>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: </connections>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: </close-protocol>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: <close-protocol :thread-session='background' class='excel' driver='Ace12' filename='C:\Users\John\Desktop\Tropics_Data_Formatted\Society_Health_Life Expectancy.xlsx' header='yes' imex='1'>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: <connections>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: </connections>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: </close-protocol>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: <close-protocol :thread-session='background' class='excel' driver='Ace12' filename='C:\Users\John\Desktop\Tropics_Data_Formatted\Society_Health_Life Expectancy.xlsx' header='yes' imex='1'>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: <connections>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: </connections>
+2014-06-13 12:38:28.946 (-,-,-,-) 0c40: </close-protocol>
+2014-06-13 12:38:28.995 (-,-,-,-) 0c40: <destruct-database class='excel' driver='Ace12' filename='C:\Users\John\AppData\Local\Temp\TableauTemp\Society_Health_Life Expectancy_1g7lvto1vnmbvq17ttojg1wnmz47.xlsx' header='yes' imex='1'>
+2014-06-13 12:38:28.995 (-,-,-,-) 0c40: <close-protocol class='excel' driver='Ace12' filename='C:\Users\John\AppData\Local\Temp\TableauTemp\Society_Health_Life Expectancy_1g7lvto1vnmbvq17ttojg1wnmz47.xlsx' header='yes' imex='1'>
+2014-06-13 12:38:28.995 (-,-,-,-) 0c40: <connections>
+2014-06-13 12:38:28.995 (-,-,-,-) 0c40: </connections>
+2014-06-13 12:38:28.995 (-,-,-,-) 0c40: </close-protocol>
+2014-06-13 12:38:28.996 (-,-,-,-) 0c40: </destruct-database>
+2014-06-13 12:38:28.996 (-,-,-,-) 0c40: <close-protocol :thread-session='background' class='excel' driver='Ace12' filename='C:\Users\John\Desktop\Tropics_Data_Formatted\Society_Health_Life Expectancy.xlsx' header='yes' imex='1'>
+2014-06-13 12:38:28.996 (-,-,-,-) 0c40: <connections>
+2014-06-13 12:38:28.996 (-,-,-,-) 0c40: </connections>
+2014-06-13 12:38:28.996 (-,-,-,-) 0c40: </close-protocol>
+2014-06-13 12:38:28.997 (-,-,-,-) 0c40: ProtocolBase::~ProtocolBase( <connection class='excel' driver='Ace12' filename='C:\Users\John\Desktop\Tropics_Data_Formatted\Society_Health_Life Expectancy.xlsx' header='yes' imex='1' this='00a3ba28' /> )
+2014-06-13 12:38:28.997 (-,-,-,-) 0c40: <connections>
+2014-06-13 12:38:28.997 (-,-,-,-) 0c40: </connections>
+2014-06-13 12:38:28.997 (-,-,-,-) 0c40: IPC done ReleaseProtocol 0.0510
+2014-06-13 12:38:28.997 (-,-,-,-) 0c40: Waiting for AdminTask completion...
+2014-06-13 12:38:28.997 (-,-,-,-) 0c40: AsyncTaskSvcWait: 0x00a0f0d0
+2014-06-13 12:38:28.997 (-,-,-,-) 0c40: WorkItemWaitForCompletion: 0x00a0f0d0
+2014-06-13 12:38:28.998 (-,-,-,-) 0cf8: AdminTask end
+2014-06-13 12:38:28.998 (-,-,-,-) 0c40: AdminTask completed.
+2014-06-13 12:38:28.998 (-,-,-,-) 0cf8: WorkItemSetComplete: 0x00a0f0d0
+2014-06-13 12:38:28.998 (-,-,-,-) 0c40: Shutting down static repository

@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<datasource formatted-name='Sample - World Bank Indicators (Excel)' inline='true' version='8.2' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <!-- build 8100.13.0808.2000                -->
+  <connection auto-extract='yes' class='excel' driver='Ace12' filename='Sample - World Bank Indicators.xlsx' header='yes' imex='1'>
+    <relation join='left' type='join'>
+      <clause type='join'>
+        <expression op='='>
+          <expression op='[&apos;Data by country$&apos;].[Country Name]'>
+          </expression>
+          <expression op='[&apos;Regions and subregions$&apos;].[Country]'>
+          </expression>
+        </expression>
+      </clause>
+      <relation name='&apos;Data by country$&apos;' table='[&apos;Data by country$&apos;]' type='table' />
+      <relation name='&apos;Regions and subregions$&apos;' table='[&apos;Regions and subregions$&apos;]' type='table' />
+    </relation>
+    <cols>
+      <map key='[&apos;Regions and subregions$&apos;_Country]' value='[&apos;Regions and subregions$&apos;].[Country]' />
+      <map key='[&apos;Regions and subregions$&apos;_Region]' value='[&apos;Regions and subregions$&apos;].[Region]' />
+      <map key='[&apos;Regions and subregions$&apos;_Subregion]' value='[&apos;Regions and subregions$&apos;].[Subregion]' />
+      <map key='[Banks: Automated tellers (per 100k adults)]' value='[&apos;Data by country$&apos;].[Banks: Automated tellers (per 100k adults)]' />
+      <map key='[Banks: Comm branches (per 100k adults)]' value='[&apos;Data by country$&apos;].[Banks: Comm branches (per 100k adults)]' />
+      <map key='[Business: Cost to export ($ per container)]' value='[&apos;Data by country$&apos;].[Business: Cost to export ($ per container)]' />
+      <map key='[Business: Cost to import ($ per container)]' value='[&apos;Data by country$&apos;].[Business: Cost to import ($ per container)]' />
+      <map key='[Business: Ease of biz index (1=easiest)]' value='[&apos;Data by country$&apos;].[Business: Ease of biz index (1=easiest)]' />
+      <map key='[Business: Exports (% GDP)]' value='[&apos;Data by country$&apos;].[Business: Exports (% GDP)]' />
+      <map key='[Business: Exports (current US$)]' value='[&apos;Data by country$&apos;].[Business: Exports (current US$)]' />
+      <map key='[Business: Firing cost (weeks of wages)]' value='[&apos;Data by country$&apos;].[Business: Firing cost (weeks of wages)]' />
+      <map key='[Business: Imports (% GDP)]' value='[&apos;Data by country$&apos;].[Business: Imports (% GDP)]' />
+      <map key='[Business: Imports (current US$)]' value='[&apos;Data by country$&apos;].[Business: Imports (current US$)]' />
+      <map key='[Business: International tourism inc (current US$)]' value='[&apos;Data by country$&apos;].[Business: International tourism inc (current US$)]' />
+      <map key='[Business: International tourism, exp (current US$)]' value='[&apos;Data by country$&apos;].[Business: International tourism, exp (current US$)]' />
+      <map key='[Business: Internet users (per 100 people)]' value='[&apos;Data by country$&apos;].[Business: Internet users (per 100 people)]' />
+      <map key='[Business: Legal rights (0=weak, 10=strong)]' value='[&apos;Data by country$&apos;].[Business: Legal rights (0=weak, 10=strong)]' />
+      <map key='[Business: Mobile phone subscribers]' value='[&apos;Data by country$&apos;].[Business: Mobile phone subscribers]' />
+      <map key='[Business: Start-up proc cost (% GNI per capita)]' value='[&apos;Data by country$&apos;].[Business: Start-up proc cost (% GNI per capita)]' />
+      <map key='[Business: Start-up procedures (count)]' value='[&apos;Data by country$&apos;].[Business: Start-up procedures (count)]' />
+      <map key='[Business: Time to prep &amp; pay taxes (hours)]' value='[&apos;Data by country$&apos;].[Business: Time to prep &amp; pay taxes (hours)]' />
+      <map key='[Business: Time to start a business (days)]' value='[&apos;Data by country$&apos;].[Business: Time to start a business (days)]' />
+      <map key='[Business: Total tax rate (% of commercial profits)]' value='[&apos;Data by country$&apos;].[Business: Total tax rate (% of commercial profits)]' />
+      <map key='[Business: Trade (% GDP)]' value='[&apos;Data by country$&apos;].[Business: Trade (% GDP)]' />
+      <map key='[Country Name]' value='[&apos;Data by country$&apos;].[Country Name]' />
+      <map key='[Date]' value='[&apos;Data by country$&apos;].[Date]' />
+      <map key='[Finance: Consumer price index (2005 = 100)]' value='[&apos;Data by country$&apos;].[Finance: Consumer price index (2005 = 100)]' />
+      <map key='[Finance: Deposit interest rate (%)]' value='[&apos;Data by country$&apos;].[Finance: Deposit interest rate (%)]' />
+      <map key='[Finance: GDP (current US$)]' value='[&apos;Data by country$&apos;].[Finance: GDP (current US$)]' />
+      <map key='[Finance: GDP per capita (current US$)]' value='[&apos;Data by country$&apos;].[Finance: GDP per capita (current US$)]' />
+      <map key='[Finance: Lending interest rate (%)]' value='[&apos;Data by country$&apos;].[Finance: Lending interest rate (%)]' />
+      <map key='[Finance: Net income from abroad (current LCU)]' value='[&apos;Data by country$&apos;].[Finance: Net income from abroad (current LCU)]' />
+      <map key='[Finance: Real interest rate (%)]' value='[&apos;Data by country$&apos;].[Finance: Real interest rate (%)]' />
+      <map key='[Government: Seats women in nat parliament (%)]' value='[&apos;Data by country$&apos;].[Government: Seats women in nat parliament (%)]' />
+      <map key='[Health: Health expenditure per capita (current US$)]' value='[&apos;Data by country$&apos;].[Health: Health expenditure per capita (current US$)]' />
+      <map key='[Health: Health expenditure, total (% GDP)]' value='[&apos;Data by country$&apos;].[Health: Health expenditure, total (% GDP)]' />
+      <map key='[Health: Life expectancy at birth, female (years)]' value='[&apos;Data by country$&apos;].[Health: Life expectancy at birth, female (years)]' />
+      <map key='[Health: Life expectancy at birth, male (years)]' value='[&apos;Data by country$&apos;].[Health: Life expectancy at birth, male (years)]' />
+      <map key='[Health: Life expectancy at birth, total (years)]' value='[&apos;Data by country$&apos;].[Health: Life expectancy at birth, total (years)]' />
+      <map key='[Health: Mortality, under-5 (per 1,000 live births)]' value='[&apos;Data by country$&apos;].[Health: Mortality, under-5 (per 1,000 live births)]' />
+      <map key='[Measures with values]' value='[&apos;Data by country$&apos;].[Measures with values]' />
+      <map key='[Military: Armed forces personnel]' value='[&apos;Data by country$&apos;].[Military: Armed forces personnel]' />
+      <map key='[Military: Expenditure (% GDP)]' value='[&apos;Data by country$&apos;].[Military: Expenditure (% GDP)]' />
+      <map key='[Military: Expenditure (% central govt exp)]' value='[&apos;Data by country$&apos;].[Military: Expenditure (% central govt exp)]' />
+      <map key='[Population: Ages 0-14 (% of total)]' value='[&apos;Data by country$&apos;].[Population: Ages 0-14 (% of total)]' />
+      <map key='[Population: Ages 15-64 (% of total)]' value='[&apos;Data by country$&apos;].[Population: Ages 15-64 (% of total)]' />
+      <map key='[Population: Ages 65+ (% of total)]' value='[&apos;Data by country$&apos;].[Population: Ages 65+ (% of total)]' />
+      <map key='[Population: Total (count)]' value='[&apos;Data by country$&apos;].[Population: Total (count)]' />
+      <map key='[Population: Urban (count)]' value='[&apos;Data by country$&apos;].[Population: Urban (count)]' />
+      <map key='[Population:: Birth rate, crude (per 1,000)]' value='[&apos;Data by country$&apos;].[Population:: Birth rate, crude (per 1,000)]' />
+      <map key='[R&amp;D: Scientific &amp; tech articles]' value='[&apos;Data by country$&apos;].[R&amp;D: Scientific &amp; tech articles]' />
+      <map key='[Stock: Listed domestic companies (count)]' value='[&apos;Data by country$&apos;].[Stock: Listed domestic companies (count)]' />
+      <map key='[Stock: Market cap companies (current US$)]' value='[&apos;Data by country$&apos;].[Stock: Market cap companies (current US$)]' />
+      <map key='[Stock: Market cap of companies (% GDP)]' value='[&apos;Data by country$&apos;].[Stock: Market cap of companies (% GDP)]' />
+      <map key='[Stock: Traded, total value (% GDP)]' value='[&apos;Data by country$&apos;].[Stock: Traded, total value (% GDP)]' />
+      <map key='[Stock: Traded, total value (current US$)]' value='[&apos;Data by country$&apos;].[Stock: Traded, total value (current US$)]' />
+      <map key='[Stock: Traded, turnover ratio (%)]' value='[&apos;Data by country$&apos;].[Stock: Traded, turnover ratio (%)]' />
+      <map key='[Transit: Air transport, passengers (count)]' value='[&apos;Data by country$&apos;].[Transit: Air transport, passengers (count)]' />
+      <map key='[Transit: Passenger cars (per 1,000 people)]' value='[&apos;Data by country$&apos;].[Transit: Passenger cars (per 1,000 people)]' />
+      <map key='[Transit: Railways, (million passenger-km)]' value='[&apos;Data by country$&apos;].[Transit: Railways, (million passenger-km)]' />
+    </cols>
+  </connection>
+  <aliases enabled='yes' />
+  <column datatype='string' hidden='true' name='[&apos;Regions and subregions$&apos;_Country]' role='dimension' type='nominal'>
+  </column>
+  <column caption='Region' datatype='string' name='[&apos;Regions and subregions$&apos;_Region]' role='dimension' type='nominal'>
+    <aliases>
+      <alias key='%null%' value='Other' />
+    </aliases>
+  </column>
+  <column caption='Subregion' datatype='string' name='[&apos;Regions and subregions$&apos;_Subregion]' role='dimension' type='nominal'>
+  </column>
+  <column aggregation='Avg' caption='B: ATMs (per 100k adults)' datatype='real' name='[Banks: Automated tellers (per 100k adults)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Banks (per 100k adults)' datatype='real' name='[Banks: Comm branches (per 100k adults)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Export cost ($/container)' datatype='real' default-format='c&quot;$&quot;#,##0;(&quot;$&quot;#,##0)' name='[Business: Cost to export ($ per container)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Import cost ($/container)' datatype='real' default-format='c&quot;$&quot;#,##0;(&quot;$&quot;#,##0)' name='[Business: Cost to import ($ per container)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Ease of biz index (1=easy)' datatype='real' datatype-customized='true' name='[Business: Ease of biz index (1=easiest)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: Exports (% of GDP)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Business: Exports (% GDP)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: Exports (curr $)' datatype='real' default-format='c&quot;$&quot;#,##0,,,.0B;(&quot;$&quot;#,##0,,,.0B)' name='[Business: Exports (current US$)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Firing cost (weeks of pay)' datatype='real' name='[Business: Firing cost (weeks of wages)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: Imports (% of GDP)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Business: Imports (% GDP)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: Imports (curr $)' datatype='real' default-format='c&quot;$&quot;#,##0,,,.0B;(&quot;$&quot;#,##0,,,.0B)' name='[Business: Imports (current US$)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: Int&apos;l tourism inc (curr $)' datatype='real' datatype-customized='true' default-format='c&quot;$&quot;#,##0,,,.0B;(&quot;$&quot;#,##0,,,.0B)' name='[Business: International tourism inc (current US$)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: Int&apos;l tourism exp (curr $)' datatype='real' datatype-customized='true' default-format='c&quot;$&quot;#,##0,,,.0B;(&quot;$&quot;#,##0,,,.0B)' name='[Business: International tourism, exp (current US$)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Internet users (per 100)' datatype='real' name='[Business: Internet users (per 100 people)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='G: Legal rights (0=weak)' datatype='real' name='[Business: Legal rights (0=weak, 10=strong)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Mobile phone subscribers' datatype='real' name='[Business: Mobile phone subscribers]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Start-up cost (% income)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Business: Start-up proc cost (% GNI per capita)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Start-up steps (count)' datatype='real' name='[Business: Start-up procedures (count)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Hours to do taxes' datatype='real' name='[Business: Time to prep &amp; pay taxes (hours)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Days to start business' datatype='real' name='[Business: Time to start a business (days)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Biz tax rate (% profits)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Business: Total tax rate (% of commercial profits)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Trade (% GDP)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Business: Trade (% GDP)]' role='measure' type='quantitative'>
+  </column>
+  <column caption='Country / Region' datatype='string' name='[Country Name]' role='dimension' semantic-role='[Country].[Name]' type='nominal'>
+    <semantic-values semantic-role='[Country].[Name]'>
+      <semantic-value key='&quot;Sint Maarten (Dutch part)&quot;' value='&quot;Saint-Martin&quot;' />
+    </semantic-values>
+  </column>
+  <column caption='Date (year)' datatype='date' datatype-customized='true' name='[Date]' role='dimension' type='ordinal'>
+  </column>
+  <column aggregation='Avg' caption='F: CPI (2005=100)' datatype='real' name='[Finance: Consumer price index (2005 = 100)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: Deposit interest rate (%)' datatype='real' datatype-customized='true' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Finance: Deposit interest rate (%)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: GDP (curr $)' datatype='real' default-format='c&quot;$&quot;#,##0,,,.0B;(&quot;$&quot;#,##0,,,.0B)' name='[Finance: GDP (current US$)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: GDP per capita (curr $)' datatype='real' default-format='c&quot;$&quot;#,##0,.0K;(&quot;$&quot;#,##0,.0K)' name='[Finance: GDP per capita (current US$)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: Lending interest rate (%)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Finance: Lending interest rate (%)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: Net inc abroad (curr LCU)' datatype='real' default-format='c&quot;$&quot;#,##0,,.0M;(&quot;$&quot;#,##0,,.0M)' name='[Finance: Net income from abroad (current LCU)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='F: Real interest rate (%)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Finance: Real interest rate (%)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='G: Women parliament (%)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Government: Seats women in nat parliament (%)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='H: Health exp/cap (curr $)' datatype='real' default-format='c&quot;$&quot;#,##0,.0K;(&quot;$&quot;#,##0,.0K)' name='[Health: Health expenditure per capita (current US$)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='H: Health exp (% GDP)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Health: Health expenditure, total (% GDP)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='H: Life exp female (years)' datatype='real' name='[Health: Life expectancy at birth, female (years)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='H: Life exp male (years)' datatype='real' name='[Health: Life expectancy at birth, male (years)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='H: Life exp (years)' datatype='real' name='[Health: Life expectancy at birth, total (years)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='H: Infant mort/1k live births' datatype='real' name='[Health: Mortality, under-5 (per 1,000 live births)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='Count measures non-null' datatype='real' hidden='true' name='[Measures with values]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='M: Armed forces personnel' datatype='real' default-format='n#,##0,,.0M;-#,##0,,.0M' name='[Military: Armed forces personnel]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='M: Military (% GDP)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Military: Expenditure (% GDP)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='M: Military (% govt exp)' datatype='real' name='[Military: Expenditure (% central govt exp)]' role='measure' type='quantitative'>
+  </column>
+  <column datatype='integer' name='[Number of Records]' role='measure' type='quantitative' user:auto-column='numrec'>
+    <calculation class='tableau' formula='1' />
+  </column>
+  <column aggregation='Avg' caption='P: Pop age 0-14 (%)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Population: Ages 0-14 (% of total)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='P: Pop age 15-64 (% of total)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Population: Ages 15-64 (% of total)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='P: Pop age 65+ (% of total)' datatype='real' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Population: Ages 65+ (% of total)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='P: Population (count)' datatype='real' default-format='n#,##0,,.0M;-#,##0,,.0M' name='[Population: Total (count)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='P: Urban (count)' datatype='real' name='[Population: Urban (count)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='P: Birth rate (per 1k)' datatype='real' name='[Population:: Birth rate, crude (per 1,000)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='B: Scientific &amp; tech articles' datatype='real' name='[R&amp;D: Scientific &amp; tech articles]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='S: Domestic companies' datatype='real' datatype-customized='true' name='[Stock: Listed domestic companies (count)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='S: Market cap (curr $)' datatype='real' datatype-customized='true' default-format='c&quot;$&quot;#,##0,,,.0B;(&quot;$&quot;#,##0,,,.0B)' name='[Stock: Market cap companies (current US$)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='S: Market cap (% GDP)' datatype='real' datatype-customized='true' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Stock: Market cap of companies (% GDP)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='S: Traded value (% GDP)' datatype='real' datatype-customized='true' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Stock: Traded, total value (% GDP)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='S: Traded value (current $)' datatype='real' datatype-customized='true' default-format='c&quot;$&quot;#,##0,,,.0B;(&quot;$&quot;#,##0,,,.0B)' name='[Stock: Traded, total value (current US$)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='S: Traded turnover (%)' datatype='real' datatype-customized='true' default-format='n#,##0&quot;%&quot;;-#,##0&quot;%&quot;' name='[Stock: Traded, turnover ratio (%)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='T: Air passengers (count)' datatype='real' default-format='n#,##0,,.0M;-#,##0,,.0M' name='[Transit: Air transport, passengers (count)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='T: Passenger cars (per 1k)' datatype='real' name='[Transit: Passenger cars (per 1,000 people)]' role='measure' type='quantitative'>
+  </column>
+  <column aggregation='Avg' caption='T: Rail (million pass km)' datatype='real' datatype-customized='true' name='[Transit: Railways, (million passenger-km)]' role='measure' type='quantitative'>
+  </column>
+  <column-instance column='[Country Name]' derivation='None' name='[none:Country Name:nk]' pivot='key' type='nominal' />
+  <column-instance column='[Date]' derivation='Year-Trunc' name='[tyr:Date:qk]' pivot='key' type='quantitative' />
+  <group hidden='true' name='[[Exclusions (Country Name,YEAR(Date (year)))]]]' name-style='unqualified' user:auto-column='exclude'>
+    <groupfilter function='crossjoin'>
+      <groupfilter function='level-members' level='[none:Country Name:nk]' />
+      <groupfilter function='level-members' level='[tyr:Date:qk]' />
+    </groupfilter>
+  </group>
+  <folder name='Business related' role='measures'>
+    <folder-item name='[Banks: Automated tellers (per 100k adults)]' type='field' />
+    <folder-item name='[Banks: Comm branches (per 100k adults)]' type='field' />
+    <folder-item name='[Business: Cost to export ($ per container)]' type='field' />
+    <folder-item name='[Business: Cost to import ($ per container)]' type='field' />
+    <folder-item name='[Business: Ease of biz index (1=easiest)]' type='field' />
+    <folder-item name='[Business: Firing cost (weeks of wages)]' type='field' />
+    <folder-item name='[Business: Internet users (per 100 people)]' type='field' />
+    <folder-item name='[Business: Mobile phone subscribers]' type='field' />
+    <folder-item name='[Business: Start-up proc cost (% GNI per capita)]' type='field' />
+    <folder-item name='[Business: Start-up procedures (count)]' type='field' />
+    <folder-item name='[Business: Time to prep &amp; pay taxes (hours)]' type='field' />
+    <folder-item name='[Business: Time to start a business (days)]' type='field' />
+    <folder-item name='[Business: Total tax rate (% of commercial profits)]' type='field' />
+    <folder-item name='[Business: Trade (% GDP)]' type='field' />
+    <folder-item name='[R&amp;D: Scientific &amp; tech articles]' type='field' />
+  </folder>
+  <folder name='Finance related' role='measures'>
+    <folder-item name='[Business: Exports (% GDP)]' type='field' />
+    <folder-item name='[Business: Exports (current US$)]' type='field' />
+    <folder-item name='[Business: Imports (% GDP)]' type='field' />
+    <folder-item name='[Business: Imports (current US$)]' type='field' />
+    <folder-item name='[Business: International tourism inc (current US$)]' type='field' />
+    <folder-item name='[Business: International tourism, exp (current US$)]' type='field' />
+    <folder-item name='[Finance: Consumer price index (2005 = 100)]' type='field' />
+    <folder-item name='[Finance: Deposit interest rate (%)]' type='field' />
+    <folder-item name='[Finance: GDP (current US$)]' type='field' />
+    <folder-item name='[Finance: GDP per capita (current US$)]' type='field' />
+    <folder-item name='[Finance: Lending interest rate (%)]' type='field' />
+    <folder-item name='[Finance: Net income from abroad (current LCU)]' type='field' />
+    <folder-item name='[Finance: Real interest rate (%)]' type='field' />
+  </folder>
+  <folder name='Health related' role='measures'>
+    <folder-item name='[Health: Health expenditure per capita (current US$)]' type='field' />
+    <folder-item name='[Health: Health expenditure, total (% GDP)]' type='field' />
+    <folder-item name='[Health: Life expectancy at birth, female (years)]' type='field' />
+    <folder-item name='[Health: Life expectancy at birth, male (years)]' type='field' />
+    <folder-item name='[Health: Life expectancy at birth, total (years)]' type='field' />
+    <folder-item name='[Health: Mortality, under-5 (per 1,000 live births)]' type='field' />
+  </folder>
+  <folder name='Military &amp; Government related' role='measures'>
+    <folder-item name='[Business: Legal rights (0=weak, 10=strong)]' type='field' />
+    <folder-item name='[Government: Seats women in nat parliament (%)]' type='field' />
+    <folder-item name='[Military: Armed forces personnel]' type='field' />
+    <folder-item name='[Military: Expenditure (% GDP)]' type='field' />
+    <folder-item name='[Military: Expenditure (% central govt exp)]' type='field' />
+  </folder>
+  <folder name='Population related' role='measures'>
+    <folder-item name='[Population: Ages 0-14 (% of total)]' type='field' />
+    <folder-item name='[Population: Ages 15-64 (% of total)]' type='field' />
+    <folder-item name='[Population: Ages 65+ (% of total)]' type='field' />
+    <folder-item name='[Population: Total (count)]' type='field' />
+    <folder-item name='[Population: Urban (count)]' type='field' />
+    <folder-item name='[Population:: Birth rate, crude (per 1,000)]' type='field' />
+  </folder>
+  <folder name='Stock Market related' role='measures'>
+    <folder-item name='[Stock: Listed domestic companies (count)]' type='field' />
+    <folder-item name='[Stock: Market cap companies (current US$)]' type='field' />
+    <folder-item name='[Stock: Market cap of companies (% GDP)]' type='field' />
+    <folder-item name='[Stock: Traded, total value (% GDP)]' type='field' />
+    <folder-item name='[Stock: Traded, total value (current US$)]' type='field' />
+    <folder-item name='[Stock: Traded, turnover ratio (%)]' type='field' />
+  </folder>
+  <folder name='Travel related' role='measures'>
+    <folder-item name='[Transit: Air transport, passengers (count)]' type='field' />
+    <folder-item name='[Transit: Passenger cars (per 1,000 people)]' type='field' />
+    <folder-item name='[Transit: Railways, (million passenger-km)]' type='field' />
+  </folder>
+  <layout dim-ordering='alphabetic' dim-percentage='0.249042' measure-ordering='alphabetic' measure-percentage='0.750958' show-structure='false' />
+  <semantic-values>
+    <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+  </semantic-values>
+</datasource>
