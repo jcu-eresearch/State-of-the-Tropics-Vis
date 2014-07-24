@@ -1,0 +1,206 @@
+```
+-baseurl: "http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg"
+-title: "State of The Tropics"
+-author: "Ann Penny"
+```
+
+#State of the Tropics
+```
+- center: [-7.5368, 33.0469]
+- zoom: 3
+```
+## Is life getting better in the Tropics?
+The landmark **State of the Tropics 2014 Report, launched  by Nobel laureate Aung San Suu Kyi**, addresses this question.
+
+It provides the first in-depth, objective assessment of the Tropics as an environmental and geopolitical entity in its own right. Drawing on the **leading institutions across the Tropics**, the [report](http://stateofthetropics.org) assesses the state of the region and examines the implications of the immense changes the region is experiencing.
+
+
+#Oceania
+```
+L.marker([40.7348, -73.9970]).actions.addRemove(S.map)
+- center: [-23.8858, 144.8438]
+- zoom: 4
+```
+
+Oceania includes some of the richest and poorest nations in the tropics. With seven million people, Papua New Guinea accounts for more than half the entire Oceania population and heavily influences the data for the region as does the presence of Hawaii (USA) and tropical Australia. Life expectancy increased from **49 to 67 years** in the 60 years to 2010 and correspondingly maternal and child mortality has declined.
+Despite these improvements, the region faces challenges created by increasing disease rates, low literacy rates and is extremely vulnerable to extreme weather events and rising sea levels.
+
+
+#Climate Refugees
+```
+- center: [1.865428, -157.416159]
+- zoom: 11
+L.marker([1.8654, -157.4162]).actions.addRemove(S.map)
+```
+![Kiribati](https://farm4.staticflickr.com/3882/14502411459_ee41fe8352.jpg)
+**Climate refugees** are people who have had to move due to changes to their natural environment caused by **climate change**. The most vulnerable nations to rising sea levels are **Kiribati, Vanuatu, the Marshall Islands, Tuvalu and Bangladesh**. Despite millions of people being at risk of becoming climate refugees **there is a lack of government and international agency recognition**
+
+
+#Central America
+```
+- center: [9.022763, -79.528582]
+- zoom: 8
+L.marker([9.1834, -79.3268]).actions.addRemove(S.map)
+```
+
+Central America has some of the highest rankings in the world for key indicators. Life expectancy is now the highest in the Tropics (75 years). Maternal and child mortality are some of lowest in the Tropics. Mean years of schooling have doubled since 1980 and youth and adult literacy (96% and 90% respectively) are some of the highest in the world.
+
+**Despite** the prevalence of infectious diseases declining and improvements in other health and economic indicators, the incidence of obesity has increased. More than 30% of individuals in Central America (with the most in Mexico) are considered obese.
+
+
+#Crime Rates
+```
+- center: [15.5648, -88.9700]
+- zoom: 10
+L.marker([15.5648, -88.9700]).actions.addRemove(S.map)
+```
+
+![Weapons](https://farm4.staticflickr.com/3855/14502411759_5540269687_z.jpg)
+
+The crackdown on drug related crime in Colombia has seen a recent transfer of criminal activity to Central America where homicide rates have been trending up since 2003. Guatemala, El Salvador, Belize and Honduras all report a homicide rate above 40 per 100,000 people.
+
+
+
+#Mangroves
+
+```
+- center: [20.041612, -76.360768]
+- zoom: 10
+L.marker([20.0417, -76.3550]).actions.addRemove(S.map)```
+![Mangrove](https://farm6.staticflickr.com/5589/14502616887_837a779b53.jpg )
+Unlike in the rest of the Tropics, mangrove losses in the Caribbean have been negligible. This is due to around **400km2 of reforestation in Cuba in recent years** helping to offset losses in other nations. In addition, legislative reform and an increase in the number of protected areas now provides greater protection to coastal and mangrove environments in Cuba, which has the **largest area of mangroves in the region**.
+
+
+#South America
+```
+- center: [-16.2991, -56.0742]
+- zoom: 4
+L.marker([1.2304, -55.5469]).actions.addRemove(S.map)
+```
+
+South America is one of the fastest growing regions in the Tropics and the world and has made significant progress across a number of social, economic and unusually for the Tropics, environmental indicators. The proportion of people living in extreme poverty declined from 21% to 7% in the 30 years to 2008. 
+
+
+#Brazil
+```
+- center: [-11.3939, -46.4502]
+- zoom: 5
+L.marker([-11.3939, -46.4502]).actions.addRemove(S.map)
+```
+
+##Development
+With more than 54% of the region’s people, has become the first tropical ‘food giant’. 
+
+From a food importer 30 years ago to the world’s largest exporter of beef, poultry, sugar cane and ethanol.
+
+Mobile phone subscriptions were less than one per cent in 1993 and now exceed the total population.
+
+
+#Brazil
+```
+L.marker([-2.2996, -55.1445]).actions.addRemove(S.map)
+- center: [-2.7236, -55.2777]
+- zoom: 8
+```
+
+##Environment
+South America includes almost 50% of all renewable water resources in the Tropics. 70% of all primary forest loss over the past 30 years occurred in South America; however, the annual loss of primary forest has been falling, driven by a huge increase in protected areas, particularly in Brazil.
+
+#Anchoveta
+```
+- center: [-14.2131, -76.1909]
+- zoom: 12
+L.marker([-14.2068, -76.1850]).actions.addRemove(S.map)
+```
+![Fishing](https://farm4.staticflickr.com/3863/14666058986_e62e410ce0_n.jpg)
+The anchoveta of Peru has experienced boom and bust periods and almost collapsed in 1972 due to a combination of poor management, improved technology and strong El Niño conditions. Prior, it was the largest single species fishery in the world. Recognition that **over-exploitation of anchoveta** lead to the collapse of a nationally significant industry was key in **introducing sustainable fishing practices**. The benefits  are reflected in the stable catch the past 20 years.
+
+
+#Middle East
+```
+- center: [16.5520, 31.4648]
+- zoom: 4
+L.marker([14.8599, 27.5098]).actions.addRemove(S.map)
+```
+This region includes some of the poorest nations in the world alongside those with rich mineral resources driven by foreign investment. Foreign direct investment in the Northern Africa and Middle East region of the Tropics has bounced back from an outflow in 1980 to more than 6% of GDP in 2010.
+The region is also characterised by large increases in agricultural area despite having few renewable water resources. the region reports the largest increase in total agricultural land area between 1980 and 2010, with an additional 510,000km2 under agricultural production, with particularly large increases in Mali, Niger and Sudan. Over the same period cattle holdings have increased by 90%, sheep and goat 99%, and cereal production by 159%.
+
+#Desalination
+```
+- center: [25.5623, 56.1731]
+- zoom: 7
+L.marker([25.5623, 56.1731]).actions.addRemove(S.map)
+```
+In one of the most water scarce regions in the world. Water stress is chronic in most nations in this region. In order to support growing populations and developing industries, nations needed to become leaders in desalination technologies. The region now accounts for over 60% of global desalination.
+
+
+#Desalination
+```
+- center: [23.6445, 57.5793]
+- zoom: 7
+L.marker([23.6445, 57.5793]).actions.addRemove(S.map)
+```
+
+![Plant](https://farm6.staticflickr.com/5578/14688777252_08ce017fd4.jpg)
+Desalination however, has economic and environmental costs. It is a energy intensive process, with high running costs and greenhouse gas emissions. Plants discharge high temperature, hypersaline water  that must be managed to avoid environmental impacts. There are growing concerns about multiple desalination plants discharging waste on local water quality.
+
+
+
+#Central Africa
+```
+- center: [-3.6889, 26.4990]
+- zoom: 5
+L.marker([-3.6889, 26.4990]).actions.addRemove(S.map)
+```
+
+The population of the Central and Southern Africa has more than **doubled since 1950** and it **remains the poorest region of the Tropics** with the largest proportion (and number) of people living in extreme poverty alongside chronic undernourishment, a high disease burden and high fertility. 
+
+Armed conflict, malaria and HIV are significant contributors to the high rates of adult mortality in the region.
+The Central and Southern African region is one of the most diverse. Ranging from resource rich Nigeria, one of the most populous nations in the world, to the Seychelles, an archipelago of 155 tiny islands in the India Ocean with a population less than 100,000.
+
+#African Progress
+```
+- center: [-4.2574, 15.3603]
+- zoom: 11
+L.marker([-4.2574, 15.3603]).actions.addRemove(S.map)
+```
+![Health](https://farm4.staticflickr.com/3905/14708942073_6b09faca0f.jpg)
+The region has made significant progress since last century. Although it still has the highest child mortality rate in the Tropics, it has declined by 60%. **Life expectancy has increased from 36 to 54** since 1950 and the region has the strongest growth rates of adult mean years of schooling and literacy.
+
+
+
+#Neglected tropical diseases
+```
+- center: [-4.3375, 15.2332]
+- zoom: 11
+L.marker([-4.3375, 15.2332]).actions.addRemove(S.map)
+```
+
+Until recently, neglected tropical diseases have received limited global attention or funding. Between 2003 and 2007 only 0.6% of overseas development assistance was dedicated to NTDs.
+
+Poverty and exposure to pathogens are primary risk factors for NTDs.  Progress will only be achieved when social determinants of health are addressed. Access to safe water, waste disposal and treatment, basic sanitation are key. Improving health systems in endemic areas is also essential. The eradication of NTDs is therefore closely linked with other development, and reducing their burden will benefit socioeconomic development in impoverished communities.
+
+#Rwanda
+```
+- center: [-1.9435, 30.0615]
+- zoom: 10
+L.marker([-1.9435, 30.0615]).actions.addRemove(S.map)
+```
+
+Rwanda is an **example of a post-conflict nation** that has successfully used parliamentary quotas to **improve gender equality**. After the brutal genocide in 1994, 70% of the population was female.
+
+
+
+#Women in Parliament
+```
+- center: [-1.9435, 30.0615]
+- zoom: 18
+L.marker([-1.9435, 30.0615]).actions.addRemove(S.map)
+```
+![Women](https://farm4.staticflickr.com/3872/14685883861_ffee352920_z.jpg)
+In 2003, Rwanda’s new constitution included a quota assuring 30% of all posts and 24 seats in parliament. In that election 39 women were elected to Rwanda’s parliament, indicating that factors other than the quota system had been at play. After the most recent election women now form 64% of the parliament.
+
+
+
+
+
